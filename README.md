@@ -43,8 +43,7 @@ Ensuite on a écrit nos propres scripts, c'est-à-dire des petits programmes en 
 
 ## 📊 Présentation
 
-👉 [Voir le diaporama (PDF)](./presentation.pdf)
+👉 [Voir le diaporama (PDF)](./Projet%20Bash%20Shell.pdf)
 
 ---
 
-*[← Retour au repo principal](../README.md)*
